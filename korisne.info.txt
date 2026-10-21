@@ -1,0 +1,2 @@
+formatiranje koda u vscodeu:alt+shift+formatiranje+F
+kopiranje  linije koda prema dolje: alt+shift+strelicama prema dolje
